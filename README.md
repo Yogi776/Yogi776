@@ -1,4 +1,4 @@
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## About 👋
 
 I am currently persuing MSc from  School of Data Science and Forecasting which is affiliated by Devi Ahilya Vishwavidyalaya, Indore formerly known as Madhya Pradesh  (DAVV) University. My hobbies are Teaching, Travelling and watching movies. I am greatly interested in Data Science and Machine Learning. I am Looking for Data Science Domain Jobs like Machine learning, deep learning and NLP Role.
@@ -32,9 +32,13 @@ I am currently persuing MSc from  School of Data Science and Forecasting which i
 13. AWS
 14. Mlops
 
-
 <br>
 
+## Data Science Project
+
+ ![This is an image](https://blog.epmainc.com/wp-content/uploads/shutterstock_305162924.jpg)
+ 
+ 
 
 
 <!---
