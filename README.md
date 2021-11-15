@@ -38,8 +38,12 @@ I am currently persuing MSc from  School of Data Science and Forecasting which i
 
  ![This is an image](https://blog.epmainc.com/wp-content/uploads/shutterstock_305162924.jpg)
  
- 
-
+ 1. Machine Learning: https://github.com/Yogi776/Machine-Learning-Project
+ 2. Laptop Price Prediction: https://github.com/Yogi776/Laptop-Price-Prediction-Model-Deployement-
+ 3. E-Mail Spam Classifier: https://github.com/Yogi776/E-mail-Spam-Classifier-Model-Deployment
+ 4. Automated-EDA: https://github.com/Yogi776/Automated-EDA
+ 5. Forecasting: https://github.com/Yogi776/Forecasting-in-Excel
+ 6. WineQuality: https://github.com/Yogi776/Winequality-Model-Deployement-DVC-Pipline
 
 <!---
 Yogi776/Yogi776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
