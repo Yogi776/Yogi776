@@ -12,6 +12,7 @@ I am currently persuing MSc from  School of Data Science and Forecasting which i
     ### Linkedin : https://www.linkedin.com/in/yogesh-khangode-0a91b01b8/
     ### Youtube  :  https://www.youtube.com/channel/UCZ1ZHjgLltUOsGH8agZh1wA    
     ###   Medium :  https://funwithdatascience.medium.com
+    ###    wandb  : https://wandb.ai/yogi312
        
  <br>
 
