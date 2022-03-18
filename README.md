@@ -20,18 +20,22 @@ I am currently persuing MSc from  School of Data Science and Forecasting which i
 
 01. Python
 02. Statistic
-03. Data Analytics
-04. Feature Engineering
-05. Data Bases
-06. Excel
-07. Machine Learning
-08. Deep learning
-09. Computer Vision
-10. NLP
-11. Power BI
-12. Tableau
-13. AWS
-14. Mlops
+03. Feature Engineering
+04. Excel
+05. Machine Learning
+06. Deep learning
+07. Computer Vision
+08. NLP
+09. Power BI
+10. Tableau
+11. Spark
+12. SQL
+13. Data Validation
+14. Data Ingestion
+15. Spark Tunning
+16. Handel Unstructed Data
+19. Data Quality
+20. MML 
 
 <br>
 
