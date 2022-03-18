@@ -5,7 +5,7 @@ I am currently persuing MSc from  School of Data Science and Forecasting which i
 
 - 👋 Hi, I’m @Yogi776.
 - 👀 I’m interest in Machine Learning, Deep learning and NLP.
-- 🌱 I’m currently learning Deep Learning and NLP project.
+- 🌱 I’m currently working in The Modern Data Company as Analytics Engineer Role.
 - 💞️ I’m looking to collaborate on Data Science End-to-End Implement Project.
 - 📫 How to reach me social Media Given Below Link: 
 
