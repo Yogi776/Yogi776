@@ -33,9 +33,8 @@ I am currently persuing MSc from  School of Data Science and Forecasting which i
 13. Data Validation
 14. Data Ingestion
 15. Spark Tunning
-16. Handel Unstructed Data
-19. Data Quality
-20. MML 
+16. Data Quality
+17. MML 
 
 <br>
 
