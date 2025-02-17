@@ -1,45 +1,40 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-## About 👋
+# Welcome to My GitHub Profile! 👋
 
-I am currently persuing MSc from  School of Data Science and Forecasting which is affiliated by Devi Ahilya Vishwavidyalaya, Indore formerly known as Madhya Pradesh  (DAVV) University. My hobbies are Teaching, Travelling and watching movies. I am greatly interested in Data Science and Machine Learning. I am Looking for Data Science Domain Jobs like Machine learning, deep learning and NLP Role.
+## 🚀 About Me
+I'm Yogesh Khangode, a dedicated Senior Analytics Engineer with a Master's in Data Analytics and a background in Computer Science. I specialize in using data to drive business growth, crafting effective data strategies that are well-suited for roles in both Data Engineering and Data Science.
 
-- 👋 Hi, I’m @Yogi776.
-- 👀 I’m interest in Machine Learning, Deep learning and NLP.
-- 🌱 I’m currently working in The Modern Data Company as Analytics Engineer Role.
-- 💞️ I’m looking to collaborate on Data Science End-to-End Implement Project.
-- 📫 How to reach me social Media Given Below Link: 
+## 🌟 Key Achievements
+- **Data Governance:** Developed robust data governance frameworks, improving data accuracy by 25% and reliability by 30%.
+- **Statistical Modeling and Machine Learning:** Implemented approaches that boosted sales by 20% and customer retention by 15%.
+- **Data Visualization:** Utilized Tableau, Google Data Studio, and Azure Databricks to create impactful visualizations, streamlining decision-making processes.
+- **ETL Optimization:** Enhanced ETL processes using Apache Airflow, Redshift, Trino, Databricks, Delta Lake, and Delta Tables, reducing data processing time by 35%.
 
-    ### Linkedin : https://www.linkedin.com/in/yogesh-khangode-0a91b01b8/
-    ### Youtube  :  https://www.youtube.com/channel/UCZ1ZHjgLltUOsGH8agZh1wA    
-    ###   Medium :  https://funwithdatascience.medium.com
-    ###    wandb  : https://wandb.ai/yogi312
-       
- <br>
+## 📘 Building Business Stories
+- Built compelling business narratives through insightful data analysis.
+- Developed actionable strategies that have a direct impact on revenue growth.
+- Identified and resolved key business challenges, enhancing overall business performance.
 
-## Skills 🚀 
+## 🏗️ Building Business-Level Data Products
+- **Product Development:** Led the design and implementation of end-to-end data products that support business decisions across various functions such as marketing, operations, and customer service.
+- **Cross-Functional Collaboration:** Worked closely with stakeholders to translate business needs into data-driven applications and dashboards.
+- **Scalability and Maintenance:** Ensured that all data products are scalable, maintainable, and updated with new features and optimizations to keep up with business demands.
 
-01. Python
-02. Statistic
-03. Feature Engineering
-04. Excel
-05. Machine Learning
-06. Deep learning
-07. Computer Vision
-08. NLP
-09. Power BI
-10. Tableau
-11. Spark
-12. SQL
-13. Data Validation
-14. Data Ingestion
-15. Spark Tunning
-16. Data Quality
-17. MML 
+## 🔧 Skills
+- **Data Management:** Apache Airflow, Amazon Redshift, Azure Databricks, Delta Lake
+- **Data Visualization:** Power BI, Superset
+- **Programming:** Python, SQL
+- **Platforms:** Extensive experience with cloud computing solutions
 
-<br>
+## 📬 Let's Connect!
+I am committed to driving business success through innovative data-driven strategies. Feel free to reach out to me at [Yogeshkhangode.99@gmail.com](mailto:Yogeshkhangode.99@gmail.com) to explore potential opportunities in data engineering and analytics.
+
+---
+
+![Yogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogi776&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogi776&layout=compact&theme=tokyonight)
 
 
-<!---
-Yogi776/Yogi776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Connect with Me
+- **LinkedIn:** (https://www.linkedin.com/in/yogesh-khangode-0a91b01b8)
+
+<!-- This README is a special file because it appears on my GitHub profile. You can click the Preview link to take a look at your changes. -->
